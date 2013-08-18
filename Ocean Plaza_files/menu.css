@@ -1,0 +1,91 @@
+/** {
+  	margin: 0; 
+		padding: 0;
+		box-sizing: border-box;
+	}
+
+	body {
+		padding: 30px; 
+		font-family: "Helvetica Neue", helvetica, arial; 
+		background: url('http://subtlepatterns.com/patterns/white_carbonfiber.png');
+	}*/
+
+
+
+/* Base plugin styles */
+
+.rift {
+    position: relative;
+    width: 100%; /* Define width */
+    height: auto; /* Define height */
+    overflow: hidden;
+    backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius:4px 4px 0px 0px;
+}
+
+.rift img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.rift .caption {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 60px; /* Define caption height */
+    line-height: 60px; /* Define matched line-height */
+    margin: -30px 0 0 0; /* Half caption height */
+    text-align: center;
+    z-index: 20;
+}
+
+.rift span[class*="span"] {
+    display: block;
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    z-index: 21;
+    -webkit-transform: translate3d(0,0,0); /* Acceleration FTW */
+    -webkit-transition: -webkit-transform .25s; /* Define anim. speed */
+    -moz-transition: -moz-transform .25s; /* Define anim. speed */
+    transition: transform .25s; /* Define anim. speed */
+}
+
+.rift span.top-span { top: 0; margin: 0;   border-radius:4px 4px 0px 0px;}
+.rift span.btm-span { top:50%; margin: 0;}
+
+.rift:hover span.top-span {
+    -webkit-transform: translate(0,-30px); /* Half caption height */
+    -moz-transform: translate(0,-30px); /* Half caption height */
+    transform: translate(0,-30px); /* Half caption height */
+
+}
+
+.rift:hover > span.btm-span {
+    -webkit-transform: translate(0,30px); /* Half caption height */
+    -moz-transform: translate(0,30px); /* Half caption height */
+    transform: translate(0,30px); /* Half caption height */
+}
+
+/* Non-plugin styles */
+
+/*body { 
+  text-align: center;
+  background: #CCC; 
+}*/
+
+.rift {
+    display: inline-block;
+    cursor: pointer;
+    /*margin: 20px 0 0 20px; */
+    border-radius:4px 4px 0px 0px;
+}
+
+.rift .caption {
+    color: #FFF;
+    background: #C00C00;
+}

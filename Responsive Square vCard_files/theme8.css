@@ -1,0 +1,291 @@
+
+
+body									{ background-color:#d5d5d5; }
+
+#header								{ background-color:#6ac5c8; }			
+
+#header-explorer					{ background-color:#6ac5c8;	}									
+
+#style-switcher						{ left:-235px; }	
+
+#right-border						{ background-color:#6ac5c8;  }	
+
+#right-button						{ background-color:#6ac5c8;  }
+
+h2									{ color:#f7f7f7; }
+									
+
+
+/*--- Line 120px ---*/
+.line-120 .deg-130					{ background-color:#4a4a4a; }
+			
+.line-120 .deg-50					{ background-color:#4a4a4a; }
+
+.line-120 .line-1					{ background-color:#4a4a4a; }
+
+.line-120 .line-2					{ background-color:#4a4a4a;  }			
+									
+.rotate-90							{ color:#4a4a4a; }
+									
+.rotate-90-2						{ color:#4a4a4a; }
+									
+.rotate-90-3						{ color:#4a4a4a; }
+									
+.rotate-90-4						{ color:#4a4a4a; }	
+
+/*--- Line 120px ---*/
+#style-switcher	.line-120 .deg-130	{ background-color:#4a4a4a; }
+			
+#style-switcher	.line-120 .deg-50	{ background-color:#4a4a4a; }
+
+#style-switcher	.line-120 .line-1	{ background-color:#4a4a4a; }
+
+#style-switcher	.line-120 .line-2	{ background-color:#4a4a4a;  }										
+
+/*--------------------------------- 
+			NAVI
+---------------------------------*/		
+#navi  i								{ color:#4a4a4a; }
+
+.icon-angle-down					{ color:#4a4a4a; }					
+									
+	
+.nav-inner-home						{ background-color:#fbfaf8; }
+	
+.nav-inner-about					{ background-color:#ededed; }
+	
+.nav-inner-portfolio				{ background-color:#fbfaf8; }
+	
+.nav-inner-blog						{ background-color:#ededed; }
+/*end NAVI */
+
+/*--------------------------------- 
+			HOME
+---------------------------------*/								
+	
+#content-left						{ color:#4a4a4a; }				
+																	
+.navi-fashion						{ background-color:#fbfaf8; color:#4a4a4a; font-weight:700;}							
+	
+.navi-people						{ background-color:#ededed; color:#4a4a4a; font-weight:700; }
+									
+.navi-design						{ background-color:#fbfaf8; color:#4a4a4a; font-weight:700; }
+									
+.navi-art							{ background-color:#6cc5c9; color:#4a4a4a; font-weight:700; }
+
+#vcard 								{ background-color:4a4a4a;	}								
+									
+#vcard h1							{ color:#4a4a4a; }			
+	
+.france								{ background-color:#ededed; }								
+	
+.japan								{ background-color:#fbfaf8; }						
+	
+.spane								{ background-color:#ededed; }		
+	
+.german								{ background-color:#6cc5c9; }	
+
+.arab								{ background-color:#ededed; }	
+
+.english							{ background-color:#fbfaf8; }	
+
+.language							{ background-color:#ededed; }
+
+.sweden								{ background-color:#6cc5c9; }
+/* end Home */
+
+/*--------------------------------- 
+			ABOUT ME
+---------------------------------*/	
+
+
+#about-me h4							{
+									color:#4a4a4a;
+									}
+									
+#about-middle .box-1					{background-color:#ededed;}	
+									
+#about-middle .box-2					{background-color:#fbfaf8;}
+									
+#about-middle .rotate-90-2			{color:#5c5c5a; }
+
+#about-middle
+.box-1 .rotate-90-4					{ color:#4a4a4a;  }
+#about-middle
+.box-1 .rotate-90-3					{ color:#4a4a4a;  }
+#about-middle
+.box-2 .rotate-90-2					{ color:#4a4a4a;  }
+#about-middle
+.box-1 .navi-right .rotate-90-3		{ color:#4a4a4a;  } 
+									
+									
+.block-3 span						{color:#4a4a4a;}	
+						
+									
+/* end ABOUT ME */									
+
+
+/*--------------------------------- 
+			PORTFOLIO
+---------------------------------*/		
+									
+#options							{ background-color:#ededed; }
+									
+#filter-left ul li a:hover				{ background-color:#4a4a4a; color:#ededed; }
+								
+#options  a							{ color:#4a4a4a; font-weight:700; }
+									
+#footer-options						{ background-color:#fbfaf8; }
+
+#portfolio									
+.dark								{ background-color:#6cc5c9; }		
+
+#portfolio									
+.light								{ background-color:#fbfaf8; }		
+
+#portfolio									
+.normal								{ background-color:#ededed; }	
+
+#portfolio 
+.dark h3								{ color:#4a4a4a;}
+
+#portfolio 
+.dark a								{ color:#fbfaf8;}
+
+#portfolio 
+.dark p								{ color:#fbfaf8; }
+
+#portfolio 
+.light h3							{ color:#4a4a4a; }
+
+#portfolio 
+.light a								{ color:#4a4a4a; }
+
+#portfolio 
+.light p								{ color:#4a4a4a; }
+
+#portfolio 
+.normal h3							{ color:#4a4a4a; }
+
+#portfolio 
+.normal a							{ color:#6cc5c9; }
+
+#portfolio 
+.normal p							{ color:#6cc5c9; }									
+/* end PORTFOLIO */
+
+/*--------------------------------- 
+			  BLOG
+---------------------------------*/									
+#left-blog							{ background-color:ededed;}
+									
+#blog h1								{ color:#30111b;}
+									
+#blog h4								{ color:#4a4a4a;}
+									
+#blog a								{ color:#4a4a4a;}
+
+#blog .master						{ color:#4a4a4a;  }										
+									
+#blog-nav-header					{ background-color:#ededed;}
+									
+#filter-archives					{ background-color:#fbfaf8;}
+									
+#filter-archives .navi-left ul		{ color:#4a4a4a; font-weight:700;}
+									
+#filter-categorie					{ background-color:#ededed;}
+									
+#filter-categorie .navi-left ul		{ color:#4a4a4a; font-weight:700;}
+									
+#right-blog							{ background-color:4a4a4a;}
+
+.block-2							{ background-color:#cbcbca; }
+
+#right-blog .blog-post-1  h3 			{ color:#2f3134; }
+
+#right-blog .blog-post-1  h5 			{ color:#f7f7f7; }
+									
+#right-blog .blog-post-1  h4 			{ color:#9a9b96; }
+										
+
+#right-blog .blog-post-1 
+.blog-post-text p			 		{ color:#2f3134; }		
+
+#filter-archives ul li:hover			{ background-color:#4a4a4a; color:#ededed; }		
+#filter-categorie ul li:hover			{ background-color:#4a4a4a; color:#ededed; }	
+/* end BLOG */
+
+
+
+
+
+/*--------------------------------- 
+			MOBILE STYLES
+---------------------------------*/	
+/*--- Portfolio Mobil ---*/
+#portfolio-mobil									
+.dark								{ background-color:#6cc5c9; }		
+
+#portfolio-mobil									
+.light								{ background-color:#4a4a4a; }		
+
+#portfolio-mobil								
+.normal								{ background-color:#4a4a4a; }	
+
+#portfolio-mobile
+.dark h3								{ color:white; }
+										
+#portfolio-mobil									
+.fancy-text-400 a					{ color:white; }
+									
+#portfolio-mobil
+.fancy-text-400 p					{ color:white; }
+									
+#portfolio-mobil									
+.fancy-text-200 a					{ color:white; }
+								
+#portfolio-mobil
+.fancy-text-200 p					{ color:white; }
+
+#portfolio-mobil
+.orangedark a						{ color:#4a4a4a; }
+
+#portfolio-mobil
+.orangedark p						{ color:#4a4a4a; }
+
+#filters-mobile .filter-a, #filters-mobile .filter-c, #filters-mobile .filter-e		{ background-color:#f7f7f7; }		
+#filters-mobile .filter-b, #filters-mobile .filter-d, #filters-mobile .filter-f		{ background-color:#eeeeee; }		
+
+#filters-mobile .filter-a a, #filters-mobile .filter-c a, #filters-mobile .filter-e a	{ color:#4a4a4a; }		
+#filters-mobile .filter-b a, #filters-mobile .filter-d a, #filters-mobile .filter-f a	{ color:#4a4a4a; }	
+
+#portfolio-mobil #options			{ background-color:white; }
+									
+#portfolio-mobil #filter-left ul li a:hover	{ background-color:#4a4a4a; color:black; }
+/* end MOBILE PORTFOLIO */
+
+/*--- MOBILE BLOG ---*/
+.open-button-latest					{ background-color:#f7f7f7; color:#4a4a4a; }
+.open-button-archive				{ background-color:#eeeeee; color:#4a4a4a; }
+.open-button-categorie				{ background-color:#f7f7f7; color:#4a4a4a; }
+
+
+.open-button-latest:hover			{ color:black; }
+.open-button-archive:hover			{ color:black; }
+.open-button-categorie:hover		{ color:black; }
+/*end MOBILE BLOG */
+
+/*--- mobile ABOUT ME ---*/							
+.open-button-vita					{ background-color:#f7f7f7; color:#4a4a4a;}
+.open-button-skills					{ background-color:#eeeeee; color:#4a4a4a;}	
+.open-button-say					{ background-color:#f7f7f7; color:#4a4a4a;}	
+	
+.open-button-vita:hover				{ color:black;}
+.open-button-skills:hover			{ color:black;}	
+.open-button-say:hover				{ color:black;}	
+/*end MOBILE ABOUT ME*/		
+
+
+				
+									
+	

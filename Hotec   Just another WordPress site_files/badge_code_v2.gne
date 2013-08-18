@@ -1,0 +1,27 @@
+var b_txt = '';
+
+// write the badge
+	
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image1"><a href="http://www.flickr.com/photos/49293152@N06/5270040232/"><img src="http://farm6.staticflickr.com/5087/5270040232_5683f47a36_s.jpg" alt="A photo on Flickr" title="Design Inspiration: Outdoor Solar Lights for Great Lighting Celebration" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image2"><a href="http://www.flickr.com/photos/49293152@N06/5267558194/"><img src="http://farm6.staticflickr.com/5128/5267558194_e821f6ab86_s.jpg" alt="A photo on Flickr" title="Design Inspiration: Wrought Iron DÃ©cor And Accessories For Your Garden" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image3"><a href="http://www.flickr.com/photos/49293152@N06/5228518711/"><img src="http://farm6.staticflickr.com/5125/5228518711_a15f77892d_s.jpg" alt="A photo on Flickr" title="Design Inspiration: Custom Made Storage Furniture by Franziska Wodicka" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image4"><a href="http://www.flickr.com/photos/49293152@N06/5201602128/"><img src="http://farm5.staticflickr.com/4125/5201602128_d6a2bb9612_s.jpg" alt="A photo on Flickr" title="Design Inspiration: Bookcase With An Amazing Curved Frame – Sherwood by Khaos" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image5"><a href="http://www.flickr.com/photos/49293152@N06/5180736007/"><img src="http://farm5.staticflickr.com/4103/5180736007_43df4c67c6_s.jpg" alt="A photo on Flickr" title="Design Inspiration: Stylish Toilets and Bidets Design from Stile" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image6"><a href="http://www.flickr.com/photos/49293152@N06/5266295486/"><img src="http://farm6.staticflickr.com/5121/5266295486_09eb325690_s.jpg" alt="A photo on Flickr" title="Design Inspiration: Contemporary Office with Transparent Curved Window" height="75" width="75"></a></div>';
+
+
+b_txt += '<span style="position:absolute;left:-999em;top:-999em;visibility:hidden" class="flickr_badge_beacon"><img src="http://geo.yahoo.com/p?s=792600102&t=e2434d480e80c5a9dc78bbff7bfb0a70&fl_ev=0&lang=en&intl=us" width="0" height="0" alt="" /></span>';
+
+document.write(b_txt);

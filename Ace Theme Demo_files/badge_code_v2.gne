@@ -1,0 +1,21 @@
+var b_txt = '';
+
+// write the badge
+	
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image1"><a href="http://www.flickr.com/photos/79171664@N04/7113165145/"><img src="http://farm9.staticflickr.com/8024/7113165145_645cae8aa6_s.jpg" alt="A photo on Flickr" title="nate-1" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image2"><a href="http://www.flickr.com/photos/79171664@N04/7113164985/"><img src="http://farm8.staticflickr.com/7264/7113164985_80db601373_s.jpg" alt="A photo on Flickr" title="flickr-seier-1" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image3"><a href="http://www.flickr.com/photos/79171664@N04/6967086780/"><img src="http://farm8.staticflickr.com/7109/6967086780_9067c0cf98_s.jpg" alt="A photo on Flickr" title="fontfont-1" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image4"><a href="http://www.flickr.com/photos/79171664@N04/7113164767/"><img src="http://farm8.staticflickr.com/7061/7113164767_f4b3c4cd8a_s.jpg" alt="A photo on Flickr" title="br1dotcom-1" height="75" width="75"></a></div>';
+
+
+b_txt += '<span style="position:absolute;left:-999em;top:-999em;visibility:hidden" class="flickr_badge_beacon"><img src="http://geo.yahoo.com/p?s=792600102&t=6865d96ec0bb9444eb46790fc0a7ff52&fl_ev=0&lang=en&intl=us" width="0" height="0" alt="" /></span>';
+
+document.write(b_txt);

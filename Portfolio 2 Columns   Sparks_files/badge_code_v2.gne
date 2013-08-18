@@ -1,0 +1,33 @@
+var b_txt = '';
+
+// write the badge
+	
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image1"><a href="http://www.flickr.com/photos/darrylhughes/9474166062/"><img src="http://farm4.staticflickr.com/3801/9474166062_bf1cc84ee8_s.jpg" alt="A photo on Flickr" title="Wales (1 of 1)" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image2"><a href="http://www.flickr.com/photos/kchastain/9471353861/"><img src="http://farm8.staticflickr.com/7325/9471353861_dd7ffb6ee5_s.jpg" alt="A photo on Flickr" title="Paths in the grass..." height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image3"><a href="http://www.flickr.com/photos/andolfato/9471369529/"><img src="http://farm8.staticflickr.com/7427/9471369529_aed33b0bb7_s.jpg" alt="A photo on Flickr" title="L\'albero solitario" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image4"><a href="http://www.flickr.com/photos/gavinmacrae/9471267357/"><img src="http://farm8.staticflickr.com/7326/9471267357_45a13ff8f8_s.jpg" alt="A photo on Flickr" title="Red deer stag" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image5"><a href="http://www.flickr.com/photos/arek/9457743287/"><img src="http://farm8.staticflickr.com/7391/9457743287_e49727a24d_s.jpg" alt="A photo on Flickr" title="Venice" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image6"><a href="http://www.flickr.com/photos/atejada/9471338027/"><img src="http://farm8.staticflickr.com/7398/9471338027_cee55f09a3_s.jpg" alt="A photo on Flickr" title="Time Travel" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image7"><a href="http://www.flickr.com/photos/guy_ducharme/9474132474/"><img src="http://farm8.staticflickr.com/7398/9474132474_fd50641911_s.jpg" alt="A photo on Flickr" title="" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image8"><a href="http://www.flickr.com/photos/katelynlucephotography/9466999773/"><img src="http://farm4.staticflickr.com/3671/9466999773_801e8bcc85_s.jpg" alt="A photo on Flickr" title="On the line" height="75" width="75"></a></div>';
+
+
+b_txt += '<span style="position:absolute;left:-999em;top:-999em;visibility:hidden" class="flickr_badge_beacon"><img src="http://geo.yahoo.com/p?s=792600102&t=1e6edfdc35fb51b11a9d02aeb30006e2&fl_ev=0&lang=en&intl=us" width="0" height="0" alt="" /></span>';
+
+document.write(b_txt);

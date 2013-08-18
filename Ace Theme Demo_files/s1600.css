@@ -1,0 +1,106 @@
+
+	.container
+	{
+		width:1508px;
+	}
+	
+	.top-area,
+	.top-area-holder
+	{
+		margin-bottom:40px;
+	}
+	
+	.om-eslider-wrapper {
+		margin-bottom:40px;
+	}
+	
+	.column-content
+	{
+		width:824px;
+		margin-right:40px;
+	}
+
+	.column-sidebars
+	{
+		width:644px;
+	}	
+	
+	.column-sidebar-1
+	{
+		width:284px;
+		margin-right:40px;
+	}
+	
+	.column-sidebar-2
+	{
+		width:320px;
+	}
+	
+	.sidebar-one .column-content
+	{
+		width:1148px;
+	}
+	
+	.sidebar-one .column-sidebars
+	{
+		width:320px;
+	}
+	
+	.sidebar-one .column-sidebar-1
+	{
+		width:auto;
+		float:none;
+		margin-right:0;
+	}
+
+	.flip-sidebar .column-content
+	{
+		left:684px;
+	}
+	
+	.flip-sidebar .column-sidebars
+	{
+		left:-864px;
+	}	
+	
+	.flip-sidebar.sidebar-one .column-content
+	{
+		left:360px;
+	}
+	
+	.flip-sidebar.sidebar-one .column-sidebars
+	{
+		left:-1188px;
+	}
+	
+	.bg-overlay
+	{
+		font-size:125%;
+	}
+	
+	.portfolio-thumb
+	{
+		width:492px;
+	}
+	
+	.portfolio-thumb.size-large
+	{
+		width:746px;
+	}
+	
+	.portfolio-thumb.size-small
+	{
+		width:365px;
+	}
+	
+	.portfolio-wrapper.size-xsmall
+	{
+		margin-right:-12px;
+	}
+	
+	.portfolio-thumb.size-xsmall
+	{
+		width:292px;
+		margin-right:12px;
+	}
+	

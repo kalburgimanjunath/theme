@@ -1,0 +1,92 @@
+
+.container {
+	position:relative;
+    width: 400px;
+	float:left;
+	font-size:18px;
+}
+
+.container-ie8 {
+	position:absolute;
+	top:0;
+	left:600px;
+    width: 400px;
+	float:left;
+	font-size:18px;
+	display:none;
+}
+
+.chart-dark {
+	float:left;
+	width:200px;
+	height:175px;
+	background-color:#2f3134;
+	text-align:center;
+	color:#cbcbca;
+	text-shadow:none;
+	padding-top:25px;
+}
+
+.chart-light {
+	float:left;
+	width:200px;
+	height:175px;
+	background-color:#ffffff;
+	text-align:center;
+	color:#2f3134;
+	text-shadow:none;
+	padding-top:25px;
+}
+
+.chart-dark-ie8 {
+	float:left;
+	width:200px;
+	height:150px;
+	background-color:#2f3134;
+	text-align:center;
+	color:#cbcbca;
+	text-shadow:none;
+	display:none;
+	margin-top:50px;
+}
+
+.chart-light-ie8 {
+	float:left;
+	width:200px;
+	height:150px;
+	background-color:#ffffff;
+	text-align:center;
+	color:#2f3134;
+	text-shadow:none;
+	display:none;
+	margin-top:50px;
+}
+
+.chart-light-ie8 .label {
+	margin-top:25px;
+}
+
+.chart-light-ie8 .percent {
+	padding-top:50px; display:block; position:relative; font-size:25px; font-weight:700;
+}
+
+
+.chart-dark-ie8 .label {
+	margin-top:25px;
+}
+
+.chart-dark-ie8 .percent {
+	padding-top:50px; display:block; position:relative; font-size:25px; font-weight:700; 
+}
+
+.label	{
+	margin-top:10px;
+}
+
+/*
+@media screen and (max-device-width: 480px) {
+  .container{
+    width: 100%;
+  }
+}
+*/

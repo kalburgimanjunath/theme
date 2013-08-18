@@ -1,0 +1,63 @@
+/* @override http://46.20.118.12/~clearcha/ccuk/assets/templates/ccprojclarity/js/cookie/stylesheet.css */
+
+/* 
+========================================================================
+Cookie Compliance Script
+========================================================================
+*/
+body
+{
+  margin: 0;
+  padding: 0;
+}
+#cookieMessageWrapper
+{
+	background: #000;
+	font-family: "Segoe UI",Verdana,Arial,Helvetica,Sans-Serif; 
+	font-size: 11pt; 
+	font-weight: normal; 
+	color: #333;
+	padding: 10px;
+	margin: 0;
+	display: none;
+	border-bottom: solid 1px #0099d8;
+	opacity:0.9;
+	
+	
+}
+#cookieMessage
+{
+	width: 940px; /* this needs to be set to the width of the centre container */
+	padding: 3px 0 3px 0;
+	margin: 0 auto;
+	position: relative;
+}
+#cookieMessage:after
+{
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+#cookieMessage p
+{
+	margin: 5px 5px;
+	font-family: "proxima-nova-1","proxima-nova-2", arial;
+	color: #fff;
+}
+#cookieClose
+
+{
+	float: right;
+	display: block;
+	padding: 10px 10px;
+	text-decoration: none;
+	background: #0098d7;
+	border: solid 1px #;
+	border-radius: 3px;
+	color: #fff;
+	font-size: 100%;
+	margin-top: 6px;
+	font-weight: bold;
+}

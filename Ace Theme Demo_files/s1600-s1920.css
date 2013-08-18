@@ -1,0 +1,57 @@
+
+	.post-date,
+	.post-cats-tags,
+	.post-author.post-author-singular,
+	.comment-meta,
+	.portfolio-thumb .label,
+	.portfolio-categories
+	{
+		font-size:75%;
+	}
+	
+	.column-sidebar-2.column-sidebar-2-optional > aside
+	{
+		display:block;
+		height:auto;
+	}	
+
+	.breadcrumbs
+	{
+		font-size:65%;
+	}
+	
+	.discussion-comments,
+	.fs-s,
+	.wp-caption-text
+	{
+		font-size:95%;
+	}
+	
+	.comment .info
+	{
+		width:260px;
+	}
+	
+ 
+	.navigation-prev-next,
+	.sort-menu li a
+	{
+		font-size:90%;
+	}
+	
+	.portfolio-thumb .text,
+	.footer
+	{
+		font-size:85%;
+	}
+	
+	.is-container .intro-block
+	{
+		font-size:80%;
+	}
+	
+	footer
+	{
+		padding-top:40px;
+	}
+	

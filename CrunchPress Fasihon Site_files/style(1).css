@@ -1,0 +1,74 @@
+/*header*/
+header.main {border-color:#8C093C;}
+
+/*Blog Widget*/
+.blogbtn { 
+	background: url(images/blog-btn.png) no-repeat scroll 0 0 transparent;
+	}
+
+/*Footer Style*/
+
+.footer-section-bottom, .cart_dropdown {
+    background-color: #8C093C;
+}
+
+.blog-thumbnail-author,.post-comments-top,.single-thumbnail-tag, .post-category {
+	background-image:url(images/meta-icons.png);
+	background-repeat:no-repeat;}
+
+.blog-thumbnail-author{
+	background-position:
+}
+.single-thumbnail-tag{
+  background-position: 2px center;
+}
+.post-comments-top {
+    background: none repeat scroll 0 0 #C03070;
+    border: 4px solid #C03070;
+  
+}
+.post-comments-top:before, .post-comments-top:after {
+    border-top: 7px solid #C03070;
+}
+.post-comments-top:after {
+    border-top: 7px solid #C03070;
+    bottom: -11px;
+    margin-left: -8px;
+}	
+.blog-thumbnail-date {
+    background: none repeat scroll 0 0 #B13F70;
+}
+span.onsale {
+	background-image:url(images/sale.png);
+ }
+a:hover, a:active {
+	color:#B13F70;	
+} 
+a.button, button, input[type="submit"], input[type="reset"], input[type="button"] { 
+    background-color: #B13F70;
+}
+.filter-nav ul li a.active { 
+	border-color:#B13F70;
+	color:#B13F70;
+}
+div.pagination a, div.pagination span, .tagcloud a:hover {
+	background-color:#B13F70;
+	color:#fff;
+	}
+div.pagination a:hover , div.pagination .current, div.cp-price-item .price-title{
+	background-color:#B13F70;
+	color:#fff;
+	}
+div.blog-thumbnail-info, div.blog-item-holder .blog-item2 .blog-thumbnail-title ,div.blog-item-holder .blog-item1 .blog-thumbnail-title, div.blog-item-holder .blog-item2 .blog-thumbnail-title, div.blog-item-holder .blog-item1 .blog-thumbnail-title, .blog_single_post h1.single-thumbnail-title, .custom-sidebar-title.sidebar-title-color.cp-title, .gallery-thumbnail-image {
+   border-color:#B13F70;
+}
+.price , div.product .stock, #content div.product .stock, .product_meta a, .product-item-context, .product-item-context h2.product-thumbnail-title a:hover, a, a:hover, div.custom-sidebar .menu li a, .single-thumbnail-tag > a:hover, .post-category > a:hover , .sf-menu li a:hover, .cp_shop_url li a:hover, h2.blog-thumbnail-title a:hover, h1.cp-page-title:hover, .sf-menu .current-menu-item a, .sf-menu .current-menu-ancestor a, .sf-menu .current-menu-item a{
+   color:#B13F70; 
+}
+#cp-menu-horizontal-dark h2 , #cp-menu-horizontal-dark li ul li a:hover, .drop:hover, .nodrop:hover{
+  color:#B13F70 !important; 
+   transition: all 0.4s ease-in-out 0s;
+}
+#cp-menu-horizontal-dark .dropdown_1column, #cp-menu-horizontal-dark .dropdown_2columns, #cp-menu-horizontal-dark .dropdown_3columns, #cp-menu-horizontal-dark .dropdown_4columns, #cp-menu-horizontal-dark .dropdown_5columns, #cp-menu-horizontal-dark .dropdown_fullwidth {
+  border-color:#B13F70;
+}

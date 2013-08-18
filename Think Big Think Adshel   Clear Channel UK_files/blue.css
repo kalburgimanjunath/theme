@@ -1,0 +1,101 @@
+/* @override http://ukccordo15wok/assets/templates/ccprojclarity/css/blue.css */
+
+ul.sideNav li.active a:link, ul.sideNav li.active a:visited, ul.sideNav li.active a:active, ul.sideNavParents a:link, ul.sideNavParents a:visited, ul.sideNavParents a:active, a:link, a:visited, a:active, ul.sideNav a:hover{
+
+	color: #0099D8;
+}
+
+
+table.standardTable {
+	border-top: 1px solid #0099D8;
+}
+
+
+
+a:link, a:visited, a:active{
+	text-decoration: none;
+	color: #0099D8;
+}
+
+a:hover, h4 a:hover{
+	
+	color: #0c5f8d;
+}
+
+.headercolour{
+	/*background: #0099D8 url(/assets/templates/ccprojclarity/images/h1bg/pencil_50.png) repeat -140px -55px;*/
+	background: #0099d8;
+}
+
+h2, h4, .lookLikeH2 {
+	color: #0099D8;
+}
+
+.footer {
+	border-top: 3px solid #0099D8;
+}
+
+ul.sideNavHere, div.tweet, div.tweetTalk, .blockQuoteText {
+	background-color: #0099D8;
+}
+
+ul.sideNavParents li{
+	background-color: #c5e1fd;
+}
+
+ul.sideNavHere li a {
+	background-color: #0099D8;
+}
+
+div.ProductSliderText {
+	background-color: #000434;
+	color:#FFF;
+	
+}
+
+div.secondaryBackground {
+	background-color: #000434;
+	color:#FFF;
+}
+
+.primaryColour{
+	color:#008cd2;
+}
+
+
+.alt, h3.alt, h3 {
+	color: #000434;
+}
+
+
+a.list {
+	
+
+text-decoration:none;
+
+
+	
+}
+
+.greyblock h2 {
+	color: #6f7789;
+	
+}
+
+ul.sideNavHere li a:hover {
+	background-color:#008cd2;
+}
+
+
+ul.sideNavParents li a:hover {
+	background-color:#bbd9f9;
+}
+
+
+/* 2013 Template */
+
+.colour-frame { background: #0099D8; padding: 40px 0; }
+.colour-frame h1, .colour-frame h2, .colour-frame p { color: #fff; }
+.colour-frame h1 { font-size: 46px; margin: 0 0 6px; }
+.colour-frame h2 { font-size: 20px; }
+.grey-frame h2, .white-frame h1, .p-links, .p-links a:hover, .p-links a:active { color: #0099D8; }

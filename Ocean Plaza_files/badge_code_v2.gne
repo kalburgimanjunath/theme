@@ -1,0 +1,36 @@
+var b_txt = '';
+
+// write the badge
+	
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image1"><a href="http://www.flickr.com/photos/65961696@N02/6008007976/"><img src="http://farm7.staticflickr.com/6130/6008007976_635f60999c_s.jpg" alt="A photo on Flickr" title="DuskPart1" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image2"><a href="http://www.flickr.com/photos/65961696@N02/6008007942/"><img src="http://farm7.staticflickr.com/6139/6008007942_995797961b_s.jpg" alt="A photo on Flickr" title="Fall Tree" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image3"><a href="http://www.flickr.com/photos/65961696@N02/6007462721/"><img src="http://farm7.staticflickr.com/6129/6007462721_488b4ed99c_s.jpg" alt="A photo on Flickr" title="Dusk Part2" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image4"><a href="http://www.flickr.com/photos/65961696@N02/6008007834/"><img src="http://farm7.staticflickr.com/6139/6008007834_c2a5380d53_s.jpg" alt="A photo on Flickr" title="Dark World" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image5"><a href="http://www.flickr.com/photos/65961696@N02/6007462379/"><img src="http://farm7.staticflickr.com/6003/6007462379_716e4faf17_s.jpg" alt="A photo on Flickr" title="Pictures2" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image6"><a href="http://www.flickr.com/photos/65961696@N02/6008007528/"><img src="http://farm7.staticflickr.com/6030/6008007528_08170e8dc1_s.jpg" alt="A photo on Flickr" title="Pictures3" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image7"><a href="http://www.flickr.com/photos/65961696@N02/6007462207/"><img src="http://farm7.staticflickr.com/6005/6007462207_8040b2d2ca_s.jpg" alt="A photo on Flickr" title="Pictures4" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image8"><a href="http://www.flickr.com/photos/65961696@N02/6007462119/"><img src="http://farm7.staticflickr.com/6001/6007462119_62835086b4_s.jpg" alt="A photo on Flickr" title="Pictures5" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+	
+		 	 		
+	 b_txt+= '<tr>';b_txt+= '<td align="center" valign="center" style="padding:0" class="flickr_badge_image" id="flickr_badge_image9"><a href="http://www.flickr.com/photos/65961696@N02/6008007032/"><img src="http://farm7.staticflickr.com/6147/6008007032_c83a84c48d_s.jpg" alt="A photo on Flickr" title="Pictures6" height="75" width="75"></a></td>'; b_txt+= '</tr>';
+
+
+b_txt += '<span style="position:absolute;left:-999em;top:-999em;visibility:hidden" class="flickr_badge_beacon"><img src="http://geo.yahoo.com/p?s=792600102&t=6710380a7ec7406f62d836d41904b0bd&fl_ev=0&lang=en&intl=us" width="0" height="0" alt="" /></span>';
+
+document.write(b_txt);
